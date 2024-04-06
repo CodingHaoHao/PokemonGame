@@ -1,0 +1,11 @@
+Player1,10
+alex,10
+1,10
+ase,20
+ase,20
+qawe,30
+qwer,20
+1awer,20
+alex,20
+qlwer,60
+alex,60

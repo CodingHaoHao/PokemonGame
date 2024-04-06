@@ -1,0 +1,4 @@
+Charmeleon,2,2200,FlameBurst,1700,280,100,83,fire,fire,5667
+Salamence,4,4060,DragonRush,2300,510,101,125,dragon,dragon,5402
+Name:Bulbasaur, Grade:1, PE:1600, Z-Move:RazorLeaf, HP:0.00, ATK:300.00, DEF:90.00, SPD:56, PokemonType:grass, MoveType:grass, CollectionNum:3232
+Name:Walrein, Grade:4, PE:3520, Z-Move:Blizzard, HP:0.00, ATK:500.00, DEF:164.00, SPD:80, PokemonType:ice, MoveType:ice, CollectionNum:1090
